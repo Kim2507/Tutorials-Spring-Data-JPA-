@@ -4,6 +4,7 @@ package com.kim.Tutorials.model;
 import javax.persistence.*;
 @Entity
 @Table(name = "tutorials")
+
 public class Tutorial {
 
 	@Id
